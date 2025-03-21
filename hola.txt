@@ -1,1 +1,6 @@
+<<<<<<< .merge_file_y1Acao
 hola soy el alumno!
+=======
+hola soy el profe!
+
+>>>>>>> .merge_file_01I1qr
